@@ -1,0 +1,9 @@
+{
+  "name": "cycle",
+  "description": "jQuery image cycle plugin.",
+  "homepage": "http://jquery.malsup.com/cycle/",
+  "author": "Alsup",
+  "version": "0.0.1",
+  "git": "https://github.com/kidovate/meteor-cycle.git",
+  "packages": {}
+}
